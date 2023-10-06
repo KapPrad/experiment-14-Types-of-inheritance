@@ -211,7 +211,7 @@ class third_derived_class: public base_class
 - **Single Inheritance Algorithm**:
 
 
-**"This is Pradnesh"**
+**OUTPUT= "This is Pradnesh"**
 
 
 - **Multiple Inheritance**
@@ -222,7 +222,7 @@ class third_derived_class: public base_class
 
 - **Multilevel Inheritance Algorithm**:
 
-**"this is Pradnesh Kapte"**
+**OUTPUT= "This is Pradnesh Kapte"**
   
 - **Hierarchical Inheritance Algorithm**:
 
